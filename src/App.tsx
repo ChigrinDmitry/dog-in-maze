@@ -7,10 +7,9 @@ const App = () => (
   <div>
     <h1>Dog and ball</h1>
     <Rectangle>
-      <Ball />
       <Maze />
+      <Ball />
     </Rectangle>
-    /
   </div>
 );
 
