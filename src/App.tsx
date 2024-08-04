@@ -1,7 +1,7 @@
 import "./App.css";
-import Ball from "./components/Ball";
+import Ball from "./components/ball/Ball";
 import { Maze } from "./components/maze/Maze";
-import { Rectangle } from "./components/Rectangle";
+import { Rectangle } from "./components/rectangle/Rectangle";
 
 const App = () => (
   <div>

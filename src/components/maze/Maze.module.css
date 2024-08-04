@@ -1,5 +1,5 @@
 .maze {
-  border: 1px solid brown;
+  border: 5px double brown;
   display: flex;
   flex-direction: column;
 }

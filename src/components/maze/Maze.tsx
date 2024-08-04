@@ -2,7 +2,7 @@ import { fieldSize, maxWallLength, minWallLength } from "../../constants";
 import { useCallback, useState, useRef } from "react";
 import { parrotsToPixels } from "../../units";
 import styles from "./Maze.module.css";
-import Dog from "../Dog";
+import Dog from "../dog/Dog";
 
 type Wall = {
   left: number;
